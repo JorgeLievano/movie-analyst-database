@@ -1,5 +1,5 @@
 # movie-analyst-database
-***
+
 Data for the movie analyst backend application of the DevOps Ram up
 
 ***
